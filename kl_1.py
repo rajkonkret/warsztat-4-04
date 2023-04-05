@@ -24,9 +24,13 @@ class MyFirstClass:
     def calculate(self, other: "MyFirstClass") -> float:
         return math.hypot(self.x - other.x, self.y - other.y)
 
+    def __repr__(self):
+        return f"x = {self.x}, y = {self.y}"
+
 
 ob = MyFirstClass()
 print(MyFirstClass.__doc__)
+print(ob)
 print(ob.x)
 ob.move(45, 67)
 print(ob.y)
