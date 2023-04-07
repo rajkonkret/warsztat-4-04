@@ -1,0 +1,12 @@
+{
+    "table": "A",
+    "currency": "euro",
+    "code": "EUR",
+    "rates": [
+        {
+            "no": "068/A/NBP/2023",
+            "effectiveDate": "2023-04-06",
+            "mid": 4.6902
+        }
+    ]
+}

@@ -1,1 +1,41 @@
-{"location": {"name": "Kielce", "region": "", "country": "Poland", "lat": 50.83, "lon": 20.67, "tz_id": "Europe/Warsaw", "localtime_epoch": 1680613173, "localtime": "2023-04-04 14:59"}, "current": {"last_updated_epoch": 1680612300, "last_updated": "2023-04-04 14:45", "temp_c": 3.8, "temp_f": 38.8, "is_day": 1, "condition": {"text": "Light snow", "icon": "//cdn.weatherapi.com/weather/64x64/day/326.png", "code": 1213}, "wind_mph": 10.1, "wind_kph": 16.2, "wind_degree": 348, "wind_dir": "NNW", "pressure_mb": 1022.0, "pressure_in": 30.18, "precip_mm": 0.0, "precip_in": 0.0, "humidity": 47, "cloud": 100, "feelslike_c": 0.1, "feelslike_f": 32.2, "vis_km": 10.0, "vis_miles": 6.0, "uv": 1.0, "gust_mph": 11.6, "gust_kph": 18.7}}
+{
+    "location": {
+        "name": "Lublin",
+        "region": "",
+        "country": "Poland",
+        "lat": 51.25,
+        "lon": 22.57,
+        "tz_id": "Europe/Warsaw",
+        "localtime_epoch": 1680784047,
+        "localtime": "2023-04-06 14:27"
+    },
+    "current": {
+        "last_updated_epoch": 1680783300,
+        "last_updated": "2023-04-06 14:15",
+        "temp_c": 0.7,
+        "temp_f": 33.3,
+        "is_day": 1,
+        "condition": {
+            "text": "Light rain",
+            "icon": "//cdn.weatherapi.com/weather/64x64/day/296.png",
+            "code": 1183
+        },
+        "wind_mph": 14.3,
+        "wind_kph": 23.0,
+        "wind_degree": 333,
+        "wind_dir": "NNW",
+        "pressure_mb": 1016.0,
+        "pressure_in": 29.99,
+        "precip_mm": 1.2,
+        "precip_in": 0.05,
+        "humidity": 99,
+        "cloud": 100,
+        "feelslike_c": -4.8,
+        "feelslike_f": 23.4,
+        "vis_km": 9.0,
+        "vis_miles": 5.0,
+        "uv": 1.0,
+        "gust_mph": 19.5,
+        "gust_kph": 31.3
+    }
+}
