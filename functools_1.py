@@ -1,5 +1,4 @@
 from functools import partial
-from functools import
 
 
 def muliply(x, y):
